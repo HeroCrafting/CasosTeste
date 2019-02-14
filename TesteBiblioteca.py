@@ -1,6 +1,13 @@
 import unittest
 from Biblioteca import Biblioteca
 
+'''
+- Alisson Santana
+- Davy Matos
+- Diego Silva
+- Laercio Rios
+- Luciano Teles
+'''
 
 class Testebiblioteca(unittest.TestCase):
 
